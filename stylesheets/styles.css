@@ -1,0 +1,40 @@
+
+h4{
+font-family:BrushScriptMT;
+font-size:250%;
+
+}
+
+
+a:hover {
+  background-color: yellow;
+}
+
+
+
+h2 {
+  background-color:crimson;
+  color: white;
+  font-size:100%;
+
+  border-style: dotted;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: white;
+}
+
+h3 {
+  color: white;
+  font-size:100%;
+}
+
+ul.b {
+  list-style-type: square;
+  color: white;
+}
+
+ol.c{
+list-style-type: lower-alpha;
+
+}
